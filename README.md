@@ -1,5 +1,3 @@
-# Covid-19 Symptom Tracker App
-
 ## Installation
 
 1. Clone repo
@@ -7,8 +5,9 @@
 
 ## Usage
 
-1. run `startDev`
-2. Navigate to `localhost:2000`
+1. run `node server.js`
+2. Navigate to `localhost:8080`
 
 ## Credit
-scott io's auth 
+
+Modified from Scotch.io's auth tutorial
